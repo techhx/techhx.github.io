@@ -49,6 +49,6 @@ date: 2017-06-11
 
 * I am Huangxin. Glad to meet you!
 
-* If you want to connect me, just email to:
+* If you want to connect me, just email to this adress:
 i@huangxin.co.uk
 
