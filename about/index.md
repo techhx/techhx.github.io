@@ -14,7 +14,7 @@ date: 2017-06-11
 
     
 
-<center><a href="https://techhx.github.io//assets/img/logo-doge.png"><b></b></a> 我叫惶心。
+<center><a href="https://techhx.github.io//assets/img/logo-doge.png"><b></b></a> 我是惶心。
 
 
 
